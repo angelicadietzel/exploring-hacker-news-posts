@@ -21,6 +21,6 @@ The two types of posts will be compared to determine the following:
 - Jupyter Notebook
 
 ## Data Set
-- A [data set](https://www.kaggle.com/hacker-news/hacker-news-posts) containing data about approximately ten thousand Android apps from Google Play. 
+- A [data set](https://www.kaggle.com/hacker-news/hacker-news-posts) of Hacker News posts from the 12 months up to September 26 2016. 
 
 
